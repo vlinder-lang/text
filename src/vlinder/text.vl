@@ -1,1 +1,1 @@
-typealias String = __String
+typealias T = __String
